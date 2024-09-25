@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @killuaafk
+- 👋 Hi, I’m @killua
 - 👀 I’m interested in game and coding
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on idk
